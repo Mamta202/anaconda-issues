@@ -1,0 +1,12 @@
+I am trying to install snippy but everytime it gives fllowing command and get changes
+Collecting package metadata (current_repodata.json): \ WARNING conda.models.version:get_matcher(542): Using .* with relational operator is superfluous and deprecated and will be removed in a future version of conda. Your spec was 1.7.1.*, but conda is ignoring the .* and treating it as 1.7.1
+done
+Solving environment: failed with repodata from current_repodata.json, will retry with next repodata source.
+Solving environment: failed with repodata from current_repodata.json, will retry with next repodata source.
+Collecting package metadata (repodata.json): / WARNING conda.models.version:get_matcher(542): Using .* with relational operator is superfluous and deprecated and will be removed in a future version of conda. Your spec was 1.9.0.*, but conda is ignoring the .* and treating it as 1.9.0
+WARNING conda.models.version:get_matcher(542): Using .* with relational operator is superfluous and deprecated and will be removed in a future version of conda. Your spec was 1.6.0.*, but conda is ignoring the .* and treating it as 1.6.0
+WARNING conda.models.version:get_matcher(542): Using .* with relational operator is superfluous and deprecated and will be removed in a future version of conda. Your spec was 1.8.0.*, but conda is ignoring the .* and treating it as 1.8.0
+done
+
+I have also tried intalling mamba but then also it is giving same command
+Please help in solving this issue
